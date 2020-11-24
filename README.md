@@ -1,1 +1,1 @@
-waixiu.github.io/waixiu
+waixiu.github.io/dist
